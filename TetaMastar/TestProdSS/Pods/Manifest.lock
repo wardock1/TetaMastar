@@ -1,0 +1,20 @@
+PODS:
+  - Locksmith (4.0.0)
+  - Starscream (3.0.6)
+
+DEPENDENCIES:
+  - Locksmith
+  - Starscream (~> 3.0.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Locksmith
+    - Starscream
+
+SPEC CHECKSUMS:
+  Locksmith: e9bebbaaa4cee3c511bc358a44f843c3fe00e21f
+  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+
+PODFILE CHECKSUM: 88473b26e1e6fdbd0ab54b5824cccc0b25048d35
+
+COCOAPODS: 1.7.3
